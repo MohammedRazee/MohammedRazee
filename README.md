@@ -54,34 +54,38 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammedRazee&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRazee&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/MohammedRazee/Game-Character-Simulation-using-Gen-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRazee&repo=Game-Character-Simulation-using-Gen-AI&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/MohammedRazee/Fitness-Tracking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRazee&repo=Fitness-Tracking&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-🕵️ **Game Character Simulation using Gen AI** — a murder mystery game built using Gemini AI agents
-🏋️ **Fitness Tracking** — workout tracking software to log exercises, sets, and progress
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕵️ Game Character Simulation using Gen AI</h3>
+      <p align="center">A murder mystery game built using Gemini AI agents</p>
+      <p align="center">
+        <a href="https://github.com/MohammedRazee/Game-Character-Simulation-using-Gen-AI">
+          <img src="https://img.shields.io/github/stars/MohammedRazee/Game-Character-Simulation-using-Gen-AI?style=for-the-badge&color=6C63FF" />
+        </a>
+        <a href="https://github.com/MohammedRazee/Game-Character-Simulation-using-Gen-AI">
+          <img src="https://img.shields.io/github/forks/MohammedRazee/Game-Character-Simulation-using-Gen-AI?style=for-the-badge&color=FF6584" />
+        </a>
+      </p>
+      <p align="center"><a href="https://github.com/MohammedRazee/Game-Character-Simulation-using-Gen-AI">View Repo →</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏋️ Fitness Tracking</h3>
+      <p align="center">Workout tracking software to log exercises, sets, and progress</p>
+      <p align="center">
+        <a href="https://github.com/MohammedRazee/Fitness-Tracking">
+          <img src="https://img.shields.io/github/stars/MohammedRazee/Fitness-Tracking?style=for-the-badge&color=6C63FF" />
+        </a>
+        <a href="https://github.com/MohammedRazee/Fitness-Tracking">
+          <img src="https://img.shields.io/github/forks/MohammedRazee/Fitness-Tracking?style=for-the-badge&color=FF6584" />
+        </a>
+      </p>
+      <p align="center"><a href="https://github.com/MohammedRazee/Fitness-Tracking">View Repo →</a></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
